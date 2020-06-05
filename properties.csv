@@ -1,3 +1,0 @@
-pNode,label,description,URI
-P2006020001,hasColumnIndex,"""Column number that corresponds to a variable""",https://w3id.org/datamart/P2006020001
-P2006020002,hasQualifier,"""Qualifiers used to describe a variable. E.g., FertilizerType, Source, etc.""",https://w3id.org/datamart/P2006020002

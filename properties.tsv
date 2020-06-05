@@ -1,0 +1,7 @@
+node1   label   node2
+P2006020001 label   hasColumnIndex
+P2006020001 schema:description  """Column number that corresponds to a variable"""
+P2006020001 schema:identifier   https://w3id.org/datamart/P2006020001
+P2006020002 label   hasQualifier
+P2006020002 schema:description  """Qualifiers used to describe a variable. E.g., FertilizerType, Source, etc."""
+P2006020002 schema:identifier   https://w3id.org/datamart/P2006020002
