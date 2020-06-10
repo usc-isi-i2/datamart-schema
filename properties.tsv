@@ -48,7 +48,7 @@ P921	data_type	WikibaseItem	P921-data-type-1
 P625	label	"coordinate location"	P625-label-1
 P625	data_type	GlobeCoordinate	P625-data-type-1
 P3896	label	"geoshape"	P3896-label-1
-P3896	data_type	GeoShape	P3896-data-type-1
+P3896	data_type	String	P3896-data-type-1
 P17	label	"country"	P17-label-1
 P17	data_type	String	P17-data-type-1
 P276	label	"location"	P276-label-1
