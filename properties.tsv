@@ -1,8 +1,8 @@
 node1	label	node2	id
-P2006020001	label	"has column index"	P2006020001-label-1
+P2006020001	label	"column index"	P2006020001-label-1
 P2006020001	data_type	Quantity	P2006020001-data_type-1
 P2006020001	description	"Column number that corresponds to a variable"	P2006020001-description-1
-P2006020002	label	"has qualifier"	P2006020002-label-1
+P2006020002	label	"qualifier"	P2006020002-label-1
 P2006020002	description	"Qualifiers used to describe a variable. E.g., FertilizerType, Source, etc."	P2006020002-description-1
 P2006020002	data_type	WikibaseProperty	P2006020002-data_type-1
 P2006020003	label	"variable measured"	P2006020003-label-1
@@ -19,19 +19,19 @@ P2006020006	data_type	String	P2006020006-data-type-1
 P2006020007	label	"version"	P2006020007-label-1
 P2006020007	description	"Version number of the Dataset. Semantic versioning in the form of X.Y.Z is preferred (where X indicates a major version, Y a minor version and Z indicates a patch or bug fixes)"	P2006020007-description-1
 P2006020007	data_type	String	P2006020007-data-type-1
-P2006020008	label	"dateCreated"	P2006020008-label-1
+P2006020008	label	"date created"	P2006020008-label-1
 P2006020008	description	"Creation date of the Dataset in ISO 8601 format (YYYY-MM-DD)"	P2006020008-description-1
 P2006020008	data_type	String	P2006020008-data-type-1
 P2006020009	label	"included in data catalog"	P2006020009-label-1
 P2006020009	description	"Catalog where the Dataset is included"	P2006020009-description-1
 P2006020009	data_type	String	P2006020009-data-type-1
+P248	label	"stated in"	P248-label-1
 P1687	label	"corresponds to property"	P1687-label-1
 P1687	data_type	WikibaseProperty	P1687-data_type-1
 P1476	label	"title"	P1476-label-1
 P1476	data_type	String	P1476-data_type-1
 P2699	label	"url"	P2699-label-1
 P2699	data_type	Url	P2699-data_type-1
-P1813	label	"short name"	P1813-label-1
 P1813	data_type	String	P1813-data-type-1
 P170	label	"creator"	P170-label-1
 P170	data_type	WikibaseItem	P170-data-type-1
