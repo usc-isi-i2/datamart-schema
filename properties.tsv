@@ -1,4 +1,4 @@
-node1	 label	node2	id
+node1	label	node2	id
 P2006020001	label	"has column index"	P2006020001-label-1
 P2006020001	data_type	Quantity	P2006020001-data_type-1
 P2006020001	description	"Column number that corresponds to a variable"	P2006020001-description-1
