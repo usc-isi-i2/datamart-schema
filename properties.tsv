@@ -8,11 +8,11 @@ P2006020002	data_type	WikibaseProperty	P2006020002-data_type-1
 P2006020003	label	"variable measured"	P2006020003-label-1
 P2006020003	data_type	WikibaseItem	P2006020003-data_type-1
 P2006020003	description	"Variables that are measured in a Dataset"	P2006020003-description-1
-P2006020004	label	"dataset id"	P2006020004-label-1
+P2006020004	label	"dataset"	P2006020004-label-1
 P2006020004	data_type	WikibaseItem	P2006020004-data_type-1
 P2006020004	description	"Id of the dataset this variable is included in"	P2006020004-description-1
 P2006020005	label	"mapping file"	P2006020005-label-1
-P2006020005	data_type	Url	P2006020005-data_type-1
+P2006020005	data_type	String	P2006020005-data_type-1
 P2006020006	label	"keywords"	P2006020006-label-1
 P2006020006	description	"Keywords describing the dataset. Multiple entries are delimited by commas"	P2006020006-description-1
 P2006020006	data_type	String	P2006020006-data-type-1
@@ -30,8 +30,8 @@ P1687	label	"corresponds to property"	P1687-label-1
 P1687	data_type	WikibaseProperty	P1687-data_type-1
 P1476	label	"title"	P1476-label-1
 P1476	data_type	String	P1476-data_type-1
-P2699	label	"url"	P2699-label-1
-P2699	data_type	Url	P2699-data_type-1
+P2699	label	"String"	P2699-label-1
+P2699	data_type	String	P2699-data_type-1
 P1813	data_type	String	P1813-data-type-1
 P170	label	"creator"	P170-label-1
 P170	data_type	WikibaseItem	P170-data-type-1
@@ -60,11 +60,11 @@ P582	data_type	Time	P582-data-type-1
 P6339	label	"data interval"	P6339-label-1
 P6339	data_type	WikibaseItem	P6339-data-type-1
 P856	label	"official website"	P856-label-1
-P856	data_type	Url	P856-data-type-1
+P856	data_type	String	P856-data-type-1
 P6269	label	"api endpoint"	P6269-label-1
-P6269	data_type	Url	P6269-data-type-1
+P6269	data_type	String	P6269-data-type-1
 P527	label	"has part"	P527-label-1
-P527	data_type	Url	P527-data-type-1
+P527	data_type	String	P527-data-type-1
 P1813	label	"short name"	P1813-label-1
 P1813	data_type	String	P1813-data-type-1
 P921	label	"main subject"	P921-label-1
