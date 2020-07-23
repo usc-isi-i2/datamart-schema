@@ -42,7 +42,7 @@ P1687	label	"corresponds to property"	P1687-label-1
 P1687	data_type	WikibaseProperty	P1687-data_type-1
 P1476	label	"title"	P1476-label-1
 P1476	data_type	String	P1476-data_type-1
-P2699	label	"String"	P2699-label-1
+P2699	label	"URL"	P2699-label-1
 P2699	data_type	String	P2699-data_type-1
 P1813	data_type	String	P1813-data-type-1
 P170	label	"creator"	P170-label-1
