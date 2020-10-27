@@ -40,6 +40,9 @@ P2006190003	data_type	WikibaseItem	P2006190003-data-type-1
 P2010050001	label	tag	P2010050001-label-1
 P2010050001	description	The category associated with an item or variable 	P2010050001-description-1
 P2010050001	data_type	String	P2010050001-data-type-1
+P2010270001	label	country CAMEO code	P2010270001-label-1
+P2010270001	description	country CAMEO code	P2010270001-description-1
+P2010270001	data_type	String	P2010270001-data-type-1
 P248	label	stated in	P248-label-1
 P1687	label	corresponds to property	P1687-label-1
 P1687	data_type	WikibaseProperty	P1687-data_type-1
